@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trung Phạm  
+# 👋 Hi, I'm James (Trung) Phạm  
 
 🎓 Computer Science Student at Arizona State University  
 💻 Passionate about Software Development, Systems, and Problem Solving  
